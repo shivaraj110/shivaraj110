@@ -22,7 +22,7 @@ I am a full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## Programming languages 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itskrish01&theme=react)](https://github.com/shivaraj110/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaraj110&theme=react)](https://github.com/shivaraj110/github-readme-stats)
 
 
 

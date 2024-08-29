@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<!--
-**shivaraj110/shivaraj110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m contributing to frontend and backend for building web applications.
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,js,tailwind,ts,express,mongodb)](https://skillicons.dev)
+
+---
+
+## Programming languages 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itskrish01&theme=react)](https://github.com/shivaraj110/github-readme-stats)
+
+
+
+### :fire: My Stats :
+
+## Github Status 🏆
+
+<img  src="https://github-stats-lemon.vercel.app/api?username=shivaraj110&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivaraj110&theme=react" width="48%" >
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=shivaraj110&theme=react-dark)
+<br>

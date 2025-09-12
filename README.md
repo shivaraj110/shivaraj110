@@ -7,9 +7,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Developer.
 
-- :telescope: I’m contributing to frontend and backend for building web applications.
+- :telescope: I’m contributing to frontend and backend for building web and mobile applications.
 
 
 ---

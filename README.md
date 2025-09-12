@@ -23,16 +23,3 @@ I am a Software Developer.
 ## Programming languages 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaraj110&theme=react)](https://github.com/shivaraj110/github-readme-stats)
-
-
-
-### :fire: My Stats :
-
-## Github Status 🏆
-
-<img  src="https://github-stats-lemon.vercel.app/api?username=shivaraj110&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivaraj110&theme=react" width="48%" >
-<br>
-
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=shivaraj110&theme=react-dark)
-<br>

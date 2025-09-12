@@ -16,7 +16,7 @@ I am a Software Developer.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,js,vite,tailwind,ts,express,mongodb,postgres,prisma,remix,redis,nextjs,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,js,vite,tailwind,ts,express,mongodb,postgres,prisma,remix,redis,nextjs,linux,graphql)](https://skillicons.dev)
 
 ---
 

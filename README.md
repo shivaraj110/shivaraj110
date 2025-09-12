@@ -9,7 +9,7 @@
 
 I am a Software Developer.
 
-- :telescope: I’m contributing to frontend and backend for building web and mobile applications.
+- :telescope: I can build, deploy, maintain web applications. Currently learning to build mobile apps.
 
 
 ---

@@ -4,12 +4,7 @@
 
 ---
 
-### :woman_technologist: About Me :
-
 I am a Software Developer.
-
-- :telescope: I can build, deploy, maintain web applications. Currently learning to build mobile apps.
-
 
 ---
 
